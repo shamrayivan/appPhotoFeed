@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView recyclerView;
     RecyclerAdapter adapter;
     RecyclerView.LayoutManager layoutManager;
-    static int count = 1084;
+    static int count = 1080;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
